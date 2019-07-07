@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/medaimane/ufn-project01-portfolio-site.git",
   "author": "Mohamed Aimane Skhairi <skhairimedaimane@gmail.com>",
+  "homepage": "https://medaimane.github.io/ufn-project01-portfolio-site",
   "license": "MIT",
   "private": true,
   "dependencies": {
