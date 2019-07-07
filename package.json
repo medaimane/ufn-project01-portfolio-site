@@ -1,0 +1,16 @@
+{
+  "name": "ufn-project01-portfolio-site",
+  "version": "1.0.0",
+  "description": "udacity frontend developer nanodegree - project 01 - build a portfolio site",
+  "main": "index.js",
+  "repository": "https://github.com/medaimane/ufn-project01-portfolio-site.git",
+  "author": "Mohamed Aimane Skhairi <skhairimedaimane@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "uikit": "^3.1.6"
+  },
+  "devDependencies": {
+    "webpack": "^4.35.2"
+  }
+}
