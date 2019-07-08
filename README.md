@@ -1,7 +1,7 @@
 # Udacity Frontend Nanodegree - Portfolio site
 
 Project 01 - Build a portfolio site. 
-[Demo](https://github.com/medaimane/ufn-project01-portfolio-site)
+[Demo](https://medaimane.github.io/ufn-project01-portfolio-site/)
 
 ## Description
 
@@ -29,7 +29,7 @@ yarn deploy
 ```
 
 The current version of this project is deployed using GitHub pages, 
-check it out [here.](https://github.com/medaimane/ufn-project01-portfolio-site)
+check it out [here.](https://medaimane.github.io/ufn-project01-portfolio-site/)
 
 ## Creators
     
